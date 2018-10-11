@@ -1,16 +1,14 @@
-
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hello 2"
-    }
-  ],
-  "profile": {
-    "name": "wavefront"
-  }
+	"posts": [{
+			"id": 1,
+			"title": "hello"
+		},
+		{
+			"id": 2,
+			"title": "hello 2"
+		}
+	],
+	"profile": {
+		"name": "wavefront"
+	}
 }
